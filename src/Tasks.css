@@ -1,0 +1,22 @@
+.spanTask{
+    font-weight: 500;
+    padding-left: 10px;
+}
+.divTaskTo{
+    padding-left: 10px;
+}
+.divSupprimeClick{
+    color: blue;
+    cursor: pointer;
+    padding-left: 10px;
+}
+
+.divStatus{
+    margin-left: auto;
+    border-radius: 50px;
+    width: 131px;
+    text-align: center;
+    height: 30px;
+    margin-top: 4px;
+    margin-right: 10px;
+}
